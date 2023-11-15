@@ -1,6 +1,6 @@
 <b>Quick highlighs</b>
-<p>Extensive experience in Golang and PHP</p><br />
-<p>10+ years of professional experience in the software industry</p><br />
+<p>Extensive experience in Golang and PHP</p>
+<p>10+ years of professional experience in the software industry</p>
 <p>Experience in developing distributed system using microservice architecture and message passing.</p><br />
 <p>Developed applications by following SOLID principles, clean architecture.</p><br />
 <p>Experience in developing applications utilizing TDD (Test Driven Development), Unit and Integration testing</p><br />
