@@ -1,14 +1,14 @@
 <b>Quick highlighs</b>
-Extensive experience in Golang and PHP
-10+ years of professional experience in the software industry
-Experience in developing distributed system using microservice architecture and message passing.
-Developed applications by following SOLID principles, clean architecture.
-Experience in developing applications utilizing TDD (Test Driven Development), Unit and Integration testing
-Worked in Agile Scrum process in software development
-Opensource enthusiast and love write elegant code
+<p>Extensive experience in Golang and PHP</p><br />
+<p>10+ years of professional experience in the software industry</p><br />
+<p>Experience in developing distributed system using microservice architecture and message passing.</p><br />
+<p>Developed applications by following SOLID principles, clean architecture.</p><br />
+<p>Experience in developing applications utilizing TDD (Test Driven Development), Unit and Integration testing</p><br />
+<p>Worked in Agile Scrum process in software development</p><br />
+<p>Opensource enthusiast and love write elegant code</p><br />
 <br />
 <b>Technology Stacks</b>
-Language: Golang, PHP
-Messaging: RabbitMQ, NATS
-DBMS: MySQL, PostgreSQL, MongoDB
-Infrastructure: Docker, Consul, Kubernetes, CI/CD
+<p>Language: Golang, PHP</p><br />
+<p>Messaging: RabbitMQ, NATS</p><br />
+<p>DBMS: MySQL, PostgreSQL, MongoDB</p><br />
+<p>Infrastructure: Docker, Consul, Kubernetes, CI/CD</p><br />
