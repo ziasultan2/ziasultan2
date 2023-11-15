@@ -7,7 +7,7 @@
 <p>&nbsp; Worked in Agile Scrum process in software development</p>
 <p>&nbsp; Opensource enthusiast and love write elegant code</p>
 <br />
-<b>&nbsp; Technology Stacks</b>
+<b>Technology Stacks</b>
 <p>&nbsp; Language: Golang, PHP</p>
 <p>&nbsp; Messaging: RabbitMQ, NATS</p>
 <p>&nbsp; DBMS: MySQL, PostgreSQL, MongoDB</p>
